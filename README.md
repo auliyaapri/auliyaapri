@@ -3,7 +3,7 @@
 
 <h3 align="left">Current activities:</h3>
 
-- 🧑‍💻 I am a student at one of the **universities in Jakarta**
+- 🧑‍💻  I’m currently learning Laravel, React
 
 - 💻 I’m currently learning **React js, Laravel**
 
