@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Auliya Apriwiguna</h1>
 <h3 align="center">I am a student at Bina Sarana Informatika</h3>
 
+<h3 align="left">Current activities:</h3>
 - 🧑‍💻 I’m currently student on **Bina Sarana Informatika**
 
 - 💻 I’m currently learning **React js, Laravel**
