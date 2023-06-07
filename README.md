@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Auliya Apriwiguna</h1>
-<h3 align="center">I am a student at Bina Sarana Informatika</h3>
+<h3 align="center">I am a student at one of the Universities in Jakarta</h3>
 
 <h3 align="left">Current activities:</h3>
 
