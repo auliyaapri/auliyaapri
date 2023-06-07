@@ -3,8 +3,6 @@
 
 <h3 align="left">Current activities:</h3>
 
-- 🧑‍💻  I’m currently learning Laravel, React
-
 - 💻 I’m currently learning **React js, Laravel**
 
 <h3 align="left">Connect with me:</h3>
