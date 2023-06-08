@@ -4,6 +4,7 @@
 <h3 align="left">Current activities:</h3>
 
 - 💻 I’m currently learning **React js, Laravel**
+- 🧑‍ 💻Student
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
