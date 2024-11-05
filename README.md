@@ -25,9 +25,7 @@ Feel free to connect with me, and let's collaborate on exciting projects!
 
 
 ## 🛠 Tech Stack
-- [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- [![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-- [![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,laravel,codeigniter,vue,react,nodejs)](https://skillicons.dev)
 - [![PHP](https://img.shields.io/badge/-PHP-8993BE?style=flat-square&logo=php&logoColor=white)](https://www.php.net/)
 - [![Laravel](https://img.shields.io/badge/-Laravel-EF3B24?style=flat-square&logo=laravel&logoColor=white)](https://laravel.com/)
 - [![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-F14F48?style=flat-square&logo=codeigniter&logoColor=white)](https://codeigniter.com/)
