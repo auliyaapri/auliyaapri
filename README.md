@@ -35,5 +35,5 @@ Feel free to connect with me, and let's collaborate on exciting projects!
 - [![React.js](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactjs.org/)
 - [![Node.js](https://img.shields.io/badge/-Node.js-8CC84B?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
 
-
+![auliyaapri's Stats](https://github-readme-stats.vercel.app/api?username=auliyaapri&theme=nightowl&show_icons=true&hide_border=true&count_private=true)
 ![auliyaapri's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=auliyaapri&theme=nightowl&show_icons=true&hide_border=true&layout=compact)
