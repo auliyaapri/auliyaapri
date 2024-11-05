@@ -17,7 +17,7 @@ I strive to create dynamic and user-friendly applications that can make a differ
 Feel free to connect with me, and let's collaborate on exciting projects!
 
 ## 🤝 Connect with Me:
-- 📧 **Email:** [auliya.apriwiguna@example.com](mailto:auliya.apriwiguna29@gmail.com)
+- 📧 **Email:** [auliya.apriwiguna@example.com](mailto:apri.wiguna29@gmail.com)
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/auliya-apriwiguna-8a79641a3/)
 - [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/apri.wiguna/)
 - [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@auliyaapriwiguna7254)
