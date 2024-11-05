@@ -1,7 +1,7 @@
 
 ## 🚀 Hi, I'm Auliya Apriwiguna
 
-I am a passionate full stack developer currently in my 7th semester at Gunadarma University. I have a keen interest in the following technologies:
+I am a passionate full stack developer currently in my 7th semester at a university in Jakarta. I have a keen interest in the following technologies:
 
 - 🐘 **PHP**
 - 🚀 **Laravel**
