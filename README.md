@@ -34,3 +34,6 @@ Feel free to connect with me, and let's collaborate on exciting projects!
 - [![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)](https://vuejs.org/)
 - [![React.js](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactjs.org/)
 - [![Node.js](https://img.shields.io/badge/-Node.js-8CC84B?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
+
+
+![auliyaapri's Streak](https://github-readme-streak-stats.herokuapp.com/?user=auliyaapri&theme=nightowl&hide_border=true)
