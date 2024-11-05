@@ -25,13 +25,12 @@ Feel free to connect with me, and let's collaborate on exciting projects!
 
 
 ## 🛠 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,laravel,codeigniter,vue,react,nodejs)](https://skillicons.dev)
+<!-- [![My Skills](https://skillicons.dev/icons?i=js,html,css,php,laravel,codeigniter,vue,react,nodejs)](https://skillicons.dev)
 - [![PHP](https://img.shields.io/badge/-PHP-8993BE?style=flat-square&logo=php&logoColor=white)](https://www.php.net/)
 - [![Laravel](https://img.shields.io/badge/-Laravel-EF3B24?style=flat-square&logo=laravel&logoColor=white)](https://laravel.com/)
 - [![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-F14F48?style=flat-square&logo=codeigniter&logoColor=white)](https://codeigniter.com/)
 - [![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)](https://vuejs.org/)
 - [![React.js](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactjs.org/)
-- [![Node.js](https://img.shields.io/badge/-Node.js-8CC84B?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
+- [![Node.js](https://img.shields.io/badge/-Node.js-8CC84B?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/) -->
 
-![auliyaapri's Stats](https://github-readme-stats.vercel.app/api?username=auliyaapri&theme=nightowl&show_icons=true&hide_border=true&count_private=true)
-![auliyaapri's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=auliyaapri&theme=nightowl&show_icons=true&hide_border=true&layout=compact)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,php,tailwind,vue,bootstrap,)
