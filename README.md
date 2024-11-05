@@ -36,4 +36,4 @@ Feel free to connect with me, and let's collaborate on exciting projects!
 - [![Node.js](https://img.shields.io/badge/-Node.js-8CC84B?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
 
 
-![auliyaapri's Streak](https://github-readme-streak-stats.herokuapp.com/?user=auliyaapri&theme=nightowl&hide_border=true)
+![auliyaapri's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=auliyaapri&theme=nightowl&show_icons=true&hide_border=true&layout=compact)
