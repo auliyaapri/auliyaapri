@@ -22,7 +22,7 @@ Feel free to connect with me, and let's collaborate on exciting projects!
 - [![React.js](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactjs.org/)
 - [![Node.js](https://img.shields.io/badge/-Node.js-8CC84B?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/) -->
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,bootstrap,tailwind,js,vuejs,php,codeigniter,laravel)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,bootstrap,tailwind,vuejs,php,codeigniter,laravel)
 
 ## 🤝 Connect with Me:
 - 📧 **Email:** [apri.wiguna29@gmail.com](mailto:apri.wiguna29@gmail.com)
