@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Auliya Apriwiguna</h1>
-<h3 align="center">I am a 7th-semester student at Bina Sarana Informatika University.</h3>
+<h3 align="center">I am a student from Jakarta, currently in my 7th semester at Bina Sarana Informatika University.</h3>
+<h3 align="center">I have a strong interest in web programming.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
