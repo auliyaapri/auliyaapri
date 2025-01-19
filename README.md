@@ -1,4 +1,4 @@
-
+![codeigniter](https://github.com/user-attachments/assets/e9e5d65b-d149-403a-b14f-67cd787b5331)
 ## 🚀 Hi, I'm Auliya Apriwiguna
 
 I’m a Final Year Student in Information Systems at Bina Sarana Informatika University, currently in my 8th semester. I am a passionate Full Stack Developer with a strong interest in Full Stack Web Development, System Analysis, and Machine Learning. I am eager to apply my skills in the following technologies:
@@ -14,6 +14,8 @@ I strive to create dynamic, user-friendly applications that make a real impact. 
 
 ## 🛠 Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,php,laravel,codeigniter,vue,react,nodejs)](https://skillicons.dev)
+
+
 
 
 ## 🤝 Connect with Me:
