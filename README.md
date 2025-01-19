@@ -1,4 +1,3 @@
-![codeigniter](https://github.com/user-attachments/assets/e9e5d65b-d149-403a-b14f-67cd787b5331)
 ## 🚀 Hi, I'm Auliya Apriwiguna
 
 I’m a Final Year Student in Information Systems at Bina Sarana Informatika University, currently in my 8th semester. I am a passionate Full Stack Developer with a strong interest in Full Stack Web Development, System Analysis, and Machine Learning. I am eager to apply my skills in the following technologies:
@@ -11,8 +10,6 @@ I’m a Final Year Student in Information Systems at Bina Sarana Informatika Uni
 - 🟢 **Node.js** (currently learning)
 
 I strive to create dynamic, user-friendly applications that make a real impact. I’m currently seeking internship opportunities as part of my graduation requirements. Feel free to connect with me and let's collaborate on exciting projects!
-
-![icon-skill](https://github.com/user-attachments/assets/c3390572-028a-4c6f-b448-d516877a497d)
 
 ## 🛠 Tech Stack
 ![icon-skill](https://github.com/user-attachments/assets/c3390572-028a-4c6f-b448-d516877a497d)
