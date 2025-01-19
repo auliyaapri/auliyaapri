@@ -19,9 +19,9 @@ I strive to create dynamic, user-friendly applications that make a real impact. 
 - [![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-F14F48?style=flat-square&logo=codeigniter&logoColor=white)](https://codeigniter.com/)
 - [![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)](https://vuejs.org/)
 - [![React.js](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactjs.org/)
-- [![Node.js](https://img.shields.io/badge/-Node.js-8CC84B?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/) -->
-[![Node.js](https://img.shields.io/badge/-Node.js-8CC84B?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,bootstrap,tailwind,vuejs,php,codeigniter,laravel)
+- [![Node.js](https://img.shields.io/badge/-Node.js-8CC84B?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/) 
+
+-->
 
 ## 🤝 Connect with Me:
 - 📧 **Email:** [apri.wiguna29@gmail.com](mailto:apri.wiguna29@gmail.com)
