@@ -13,7 +13,7 @@ I’m a Final Year Student in Information Systems at Bina Sarana Informatika Uni
 I strive to create dynamic, user-friendly applications that make a real impact. I’m currently seeking internship opportunities as part of my graduation requirements. Feel free to connect with me and let's collaborate on exciting projects!
 
 ## 🛠 Tech Stack
-<img src="https://media.geeksforgeeks.org/wp-content/uploads/20230501155143/Git-Tutorial.webp" alt="Sample Image" width="400" height="300">
+<img src="https://github.com/user-attachments/assets/e9e5d65b-d149-403a-b14f-67cd787b5331" alt="Sample Image" width="80" height="80">
 
 
 ## 🤝 Connect with Me:
