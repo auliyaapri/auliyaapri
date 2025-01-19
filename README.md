@@ -20,7 +20,7 @@ I strive to create dynamic, user-friendly applications that make a real impact. 
 - [![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)](https://vuejs.org/)
 - [![React.js](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactjs.org/)
 - [![Node.js](https://img.shields.io/badge/-Node.js-8CC84B?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/) -->
-
+[![Node.js](https://img.shields.io/badge/-Node.js-8CC84B?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,bootstrap,tailwind,vuejs,php,codeigniter,laravel)
 
 ## 🤝 Connect with Me:
