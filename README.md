@@ -1,7 +1,7 @@
 
 ## 🚀 Hi, I'm Auliya Apriwiguna
 
-I am a passionate full stack developer currently in my 8th semester at a university in Jakarta. I have a keen interest in the following technologies:
+I’m a Final Year Student in Information Systems at Bina Sarana Informatika University, currently in my 8th semester. I am a passionate Full Stack Developer with a strong interest in Full Stack Web Development, System Analysis, and Machine Learning. I am eager to apply my skills in the following technologies:
 
 - 🐘 **PHP**
 - 🚀 **Laravel**
@@ -10,8 +10,7 @@ I am a passionate full stack developer currently in my 8th semester at a univers
 - ⚛️ **React.js** (currently learning)
 - 🟢 **Node.js** (currently learning)
 
-I strive to create dynamic and user-friendly applications that can make a difference. 
-Feel free to connect with me, and let's collaborate on exciting projects!
+I strive to create dynamic, user-friendly applications that make a real impact. I’m currently seeking internship opportunities as part of my graduation requirements. Feel free to connect with me and let's collaborate on exciting projects!
 
 ## 🛠 Tech Stack
 <!-- [![My Skills](https://skillicons.dev/icons?i=js,html,css,php,laravel,codeigniter,vue,react,nodejs)](https://skillicons.dev)
