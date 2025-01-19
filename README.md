@@ -14,6 +14,11 @@ I strive to create dynamic, user-friendly applications that make a real impact. 
 
 ## 🛠 Tech Stack
 <img src="https://github.com/user-attachments/assets/e9e5d65b-d149-403a-b14f-67cd787b5331" alt="Sample Image" width="80" height="80">
+<img src="https://github.com/user-attachments/assets/7f447f0f-bbee-408f-b1cb-8d7d8a54a7e3" alt="Sample Image" width="80" height="80">
+<img src="https://github.com/user-attachments/assets/beba1d03-e609-4294-b1aa-fad1127e850e" alt="Sample Image" width="80" height="80">
+<img src="https://github.com/user-attachments/assets/42568c7b-ec3b-4cb1-b075-a1effb8f468e" alt="Sample Image" width="80" height="80">
+
+
 
 
 ## 🤝 Connect with Me:
