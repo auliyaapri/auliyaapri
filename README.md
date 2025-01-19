@@ -22,13 +22,6 @@ I strive to create dynamic, user-friendly applications that make a real impact. 
 - [![Node.js](https://img.shields.io/badge/-Node.js-8CC84B?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/) 
 
 ## 🤝 Connect with Me:
-![email](https://github.com/user-attachments/assets/af68e8a4-477f-4dad-a622-7f6eca8075a8)<svg xmlns="http://www.w3.org/2000/svg"
-aria-label="Email" role="img"
-viewBox="0 0 512 512"><rect
-width="512" height="512"
-rx="15%"
-fill="teal"/><rect width="356" height="256" x="78" y="128" fill="#fff" rx="8%"/><path fill="none" stroke="teal" stroke-width="20" d="M434 128L269 292c-7 8-19 8-26 0L78 128m0 256l129-128m227 128L305 256"/></svg>
-
 - 📧 **Email:** [apri.wiguna29@gmail.com](mailto:apri.wiguna29@gmail.com)
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/auliya-apriwiguna-8a79641a3/)
 - [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/apri.wiguna/)
