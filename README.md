@@ -14,7 +14,7 @@ I strive to create dynamic, user-friendly applications that make a real impact. 
 
 ## 🛠 Tech Stack
 
-    <div class="" style="display: flex;">
+    
       <img
         src="https://github.com/user-attachments/assets/e9e5d65b-d149-403a-b14f-67cd787b5331"
         alt="codeigniter"
@@ -22,8 +22,6 @@ I strive to create dynamic, user-friendly applications that make a real impact. 
         height="60"
         style="background: #ffffff; border-radius: 10px; padding: 10px"
       />
-      <!-- Putih agar logo merah menonjol -->
-
       <img
         src="https://github.com/user-attachments/assets/7f447f0f-bbee-408f-b1cb-8d7d8a54a7e3"
         alt="laravel"
@@ -31,7 +29,6 @@ I strive to create dynamic, user-friendly applications that make a real impact. 
         height="60"
         style="background: #ffffff; border-radius: 10px; padding: 10px"
       />
-      <!-- Putih agar logo merah menonjol -->
 
       <img
         src="https://github.com/user-attachments/assets/beba1d03-e609-4294-b1aa-fad1127e850e"
@@ -40,7 +37,6 @@ I strive to create dynamic, user-friendly applications that make a real impact. 
         height="60"
         style="background: #ffffff; border-radius: 10px; padding: 10px"
       />
-      <!-- Putih cocok untuk logo hijau -->
 
       <img
         src="https://github.com/user-attachments/assets/42568c7b-ec3b-4cb1-b075-a1effb8f468e"
@@ -49,8 +45,6 @@ I strive to create dynamic, user-friendly applications that make a real impact. 
         height="60"
         style="background: #000000; border-radius: 10px; padding: 10px"
       />
-      <!-- Hitam cocok untuk logo biru -->
-    </div>
 
 ## 🤝 Connect with Me:
 - 📧 **Email:** [apri.wiguna29@gmail.com](mailto:apri.wiguna29@gmail.com)
