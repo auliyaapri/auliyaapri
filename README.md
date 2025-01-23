@@ -12,7 +12,7 @@ I’m a Final Year Student in Information Systems at Bina Sarana Informatika Uni
 I strive to create dynamic, user-friendly applications that make a real impact. I’m currently seeking internship opportunities as part of my graduation requirements. Feel free to connect with me and let's collaborate on exciting projects!
 
 ## 🛠 Tech Stack
-![icon-skill](https://github.com/user-attachments/assets/c3390572-028a-4c6f-b448-d516877a497d)
+![icon-skill](https://github.com/user-attachments/assets/fc354992-accb-4f56-994b-9a8a0fd65b18)
 
 ## 🤝 Connect with Me:
 - 📧 **Email:** [apri.wiguna29@gmail.com](mailto:apri.wiguna29@gmail.com)
